@@ -1,8 +1,12 @@
 ### Hi there 👋
-🙋🏻‍♂️ Name: 837477 
+🙋🏻‍♂️ Name: 837477
+
 👨🏻‍💻 Job: Developer
+
 📧 E-mail: 8374770@gmail.com
+
 📔 Blog: http://837477.pythonanywhere.com
+
 🐱 Github: https://github.com/837477
 <!--
 **837477/837477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
