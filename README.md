@@ -5,7 +5,9 @@
 
 📧 E-mail: 8374770@gmail.com
 
-📔 Blog: http://837477.pythonanywhere.com
+📚 Portfolio: https://837477.github.io
+
+📔 Blog: https://blog.naver.com/837477_
 
 🐱 Github: https://github.com/837477
 <!--
