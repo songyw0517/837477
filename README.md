@@ -1,26 +1,15 @@
 ### Hi there 👋
-🙋🏻‍♂️ Name: 837477
 
-👨🏻‍💻 Job: Developer
+🙋🏻‍♂️ Name : 서정민 / JEONGMIN SEO
 
-📧 E-mail: 8374770@gmail.com
+🏫 Education : Sejong University
 
-📚 Portfolio: https://837477.github.io
+🎓 Major : Computer Engineering
 
-📔 Blog: https://blog.naver.com/837477_/
+🗂 Portfolio : [837477.portfolio.com](https://837477.github.io)
 
-🐱 Github: https://github.com/837477
-<!--
-**837477/837477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Blog : [837477.blog.com](https://blog.naver.com/837477_)
 
-Here are some ideas to get you started:
+📧 Email : [8374770@gmail.com](mailto:8374770@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📺 Instagram : [_seowjdals](https://www.instagram.com/_seowjdals/)
