@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-🙋🏻‍♂️ Name : 서정민 / JEONGMIN SEO
+Good day! I am 837477, and I am majoring in Computer Engineering at Sejong University.
 
-🎓 Major : Sejong University Computer Engineering
+If u want to contact me, please leave me a message!
 
-🗂 Portfolio : [837477.portfolio.com](https://837477.github.io)
+### Detailed Profile 🐳
 
-📚 Blog : [837477.blog.com](https://blog.naver.com/837477_)
+- [👨🏻‍💻 Portfolio](https://837477.github.io)
 
-📺 Instagram : [_seowjdals](https://www.instagram.com/_seowjdals/)
+- [📚 Blog](https://blog.naver.com/837477_)
 
-📧 Email : [8374770@gmail.com](mailto:8374770@gmail.com)
+- [📺 Instagram](https://www.instagram.com/_seowjdals/)
