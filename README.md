@@ -14,7 +14,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=837477)](https://github.com/anuraghazra/github-readme-stats)
 
-If u want to contact me, please leave me a message!
+<br>
+
+If u want to know more about or contact me, please refer to the GitHub blog !
 
 [![Portfolio](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://837477.github.io)](https://837477.github.io) 
 [![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_seowjdals)](https://www.instagram.com/_seowjdals) 
