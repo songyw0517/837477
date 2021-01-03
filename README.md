@@ -16,7 +16,7 @@
 
 <br>
 
-If u want to know more about or contact me, please refer to the GitHub blog !
+If u want to know more about or contact me, please use the links below !
 
 [![Portfolio](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://837477.github.io)](https://837477.github.io) 
 [![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_seowjdals)](https://www.instagram.com/_seowjdals) 
