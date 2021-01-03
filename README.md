@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-✓ Large scale social media mining LAB (Bachelor's researcher)
+👨🏻‍💻 Large scale social media mining LAB (Bachelor's researcher)
 
-✓ MSICT & IITP & FKII, Software Maestro 11th. (Graduate)
+👨🏻‍💻 MSICT & IITP & FKII, Software Maestro 11th. (Graduate)
 
-✓ Sejong University Computer Engineering (Bachelor)
+👨🏻‍💻 Sejong University Computer Engineering (Bachelor)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=837477)](https://github.com/anuraghazra/github-readme-stats)
 
