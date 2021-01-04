@@ -1,16 +1,14 @@
+<div align=center>
+
 ### Hi there 👋
 
-👨🏻‍💻 Large scale social media mining LAB (Bachelor's researcher)
+📎 Large scale social media mining LAB (Bachelor's researcher)
 
-👨🏻‍💻 MSICT & IITP & FKII, Software Maestro 11th. (Graduate)
+📎 MSICT & IITP & FKII, Software Maestro 11th. (Graduate)
 
-👨🏻‍💻 Sejong University Computer Engineering (Bachelor)
-
-<br>
+📎 Sejong University Computer Engineering (Bachelor)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=837477)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 
 If u want to know more about or contact me, please use the links below !
 
@@ -19,3 +17,5 @@ If u want to know more about or contact me, please use the links below !
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:8374770@gmail.com)](mailto:8374770@gmail.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F837477&count_bg=%232E73CF&title_bg=%23564A4A&icon=aiqfome.svg&icon_color=%23FFFFFF&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
